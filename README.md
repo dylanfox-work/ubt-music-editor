@@ -1,4 +1,4 @@
-<img src="assets/logo.svg" alt="UBT Music Editor logo" width="96" align="right">
+<img src="assets/logo.webp" alt="UBT Music Editor logo" width="72" align="right">
 
 # UBT Music Editor
 
@@ -6,7 +6,9 @@
 
 **Status:** Live · [Access-controlled preview](https://ubtmusiceditor.pages.dev) · [View Dylan's portfolio](https://dylanfox.work)
 
-<img src="assets/interface.webp" alt="Original orange UBT Music Editor design showing instrumental and vocal layer inputs" width="320">
+<p><img src="assets/interface.webp" alt="Original orange UBT Music Editor design showing instrumental and vocal layer inputs" width="360"></p>
+
+<table><tr><td><img src="assets/logo.webp" alt="" width="34"></td><td><strong>UBT Music Editor</strong></td></tr></table>
 
 *Original interface design. The live editor also includes a cappella mode and adjustable tuning.*
 
